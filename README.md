@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 <!--START_SECTION:waka-->
 ![WakaTime](https://wakatime.com/badge/user/andcas23.svg)
+WAKATIME_API_KEY
 <!--END_SECTION:waka-->
