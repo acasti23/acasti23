@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![WakaTime](https://wakatime.com/badge/user/WAKATIME_API_KEY.svg)
+![WakaTime](https://wakatime.com/badge/user/andcas23.svg)
 <!--END_SECTION:waka-->
